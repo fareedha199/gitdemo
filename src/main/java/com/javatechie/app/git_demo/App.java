@@ -12,7 +12,9 @@ public class App
 			System.out.println("Welcome") ;
 			}
 		}
-	
+	public void testData(){
+		System.out.println("Method 2...") ;
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
