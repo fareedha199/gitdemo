@@ -11,7 +11,11 @@ public class App
 		if(data.equals(Constant.DATA_TYPE)) {
 			System.out.println("Welcome") ;
 			}
+		else {
+			System.out.println(CommonUtil.DATA_TYPE2) ;
 		}
+		}
+
 	
     public static void main( String[] args )
     {
